@@ -1,10 +1,4 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "ean": "7891000090732",
-      "name": "Banana Pacovan KG",
-      "price": "19,90"
-    }
-  ]
+   "description": "Banana Pacovan KG",
+   "price": "9.99",
 }
