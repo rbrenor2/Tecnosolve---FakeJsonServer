@@ -1,10 +1,4 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "ean": "7891000090732",
-      "name": "Produto não encontrado",
-      "price": ""
-    }
-  ]
+   "description": "Produto não encontrado",
+   "price": ""
 }
