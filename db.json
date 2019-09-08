@@ -1,4 +1,59 @@
-{
-   "description": "Produto não encontrado",
-   "price": ""
-}
+ [
+      {
+        rowId: 132435,
+        campaignCode: 3454,
+        campaignDescription: "This is a campaing description",
+        campaignStartDate: new Date("2019-01-16"),
+        campaignEndDate: new Date("2019-01-16"),
+        promotionCode: 1231243,
+        promotionDescription: "This is a campaing description",
+        percentageDiscount: 10,
+        fixedPrice: 29,
+        remove: false
+      },
+      {
+        rowId: 564357,
+        campaignCode: 5657,
+        campaignDescription: "This is a campaing description",
+        campaignStartDate: new Date("2019-01-16"),
+        campaignEndDate: new Date("2019-01-16"),
+        promotionCode: 1231243,
+        promotionDescription: "This is a campaing description",
+        percentageDiscount: 10,
+        fixedPrice: 29,
+        remove: false
+      },
+    {
+        rowId: 765657,
+        campaignCode: 87435,
+        campaignDescription: "This is a campaing description",
+        campaignStartDate: new Date("2019-01-16"),
+        campaignEndDate: new Date("2019-01-16"),
+        promotionCode: 65721,
+        promotionDescription: "This is a campaing description",
+        percentageDiscount: 5,
+        fixedPrice: 45,
+      },
+    {
+        rowId: 9843,
+        campaignCode: 5687,
+        campaignDescription: "This is a campaing description",
+        campaignStartDate: new Date("2019-01-16"),
+        campaignEndDate: new Date("2019-01-16"),
+        promotionCode: 1231243,
+        promotionDescription: "This is a campaing description",
+        percentageDiscount: 10,
+        fixedPrice: 65,
+      },
+    {
+        rowId: 3453,
+        campaignCode: 345,
+        campaignDescription: "This is a campaing description",
+        campaignStartDate: new Date("2019-01-16"),
+        campaignEndDate: new Date("2019-01-16"),
+        promotionCode: 1231243,
+        promotionDescription: "This is a campaing description",
+        percentageDiscount: 8,
+        fixedPrice: 23,
+      }
+    ]
